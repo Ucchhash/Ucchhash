@@ -1,4 +1,4 @@
-<h2> Hello World! I'm Thuee Mong!</h2>
+<h2> Hello World! I'm Ucchhash!</h2>
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
 <p><em>Electronics and Communication Engineer at <a href="https://ku.ac.bd">Khulna University</a></br> 
 </em></p>
@@ -20,6 +20,6 @@ const ucchhash = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
