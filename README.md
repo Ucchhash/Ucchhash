@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: ucchhash14](https://img.shields.io/twitter/follow/ucchhash14?style=social)](https://twitter.com/ucchhash14)
-[![Linkedin: Thuee Mong Sing Marma](https://img.shields.io/badge/-thueemongsingmarma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thuee-mong-sing-marma-520127220/)](https://www.linkedin.com/in/thuee-mong-sing-marma-520127220/)
+[![Linkedin: Thuee Mong Sing Marma](https://img.shields.io/badge/-Thuee Mong Sing Marma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thuee-mong-sing-marma-520127220/)](https://www.linkedin.com/in/thuee-mong-sing-marma-520127220/)
 [![GitHub Ucchhash](https://img.shields.io/github/followers/Ucchhash?label=follow&style=social)](https://github.com/Ucchhash)
 
 
