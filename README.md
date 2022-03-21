@@ -14,9 +14,8 @@
 const ucchhash = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python],
-  tools: [React, Redux, Node, NextJs, Styled-Components],
-  architecture: ["microservices", "event-driven", "design system pattern"],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  tools: [React, Node, NextJs, Styled-Components, Bootstrap, TailWind],
+ challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
 ```
 
